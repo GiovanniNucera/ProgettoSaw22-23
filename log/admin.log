@@ -1,0 +1,10 @@
+[23-Jan-2023 15:44:53 UTC] PHP Notice:  Undefined index: name in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/update_product.php on line 65
+[23-Jan-2023 15:44:53 UTC] PHP Notice:  Undefined index: description in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/update_product.php on line 66
+[23-Jan-2023 15:44:58 UTC] PHP Notice:  Undefined index: name in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/update_product.php on line 65
+[23-Jan-2023 15:44:58 UTC] PHP Notice:  Undefined index: description in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/update_product.php on line 66
+[24-Jan-2023 09:13:28 UTC] PHP Notice:  Undefined index: admin in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/admin_area.php on line 6
+[24-Jan-2023 09:13:45 UTC] PHP Notice:  Undefined index: admin in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/admin_users.php on line 6
+[24-Jan-2023 09:13:48 UTC] PHP Notice:  Undefined index: admin in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/insert_product.php on line 7
+[24-Jan-2023 09:13:51 UTC] PHP Notice:  Undefined index: admin in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/selectall_donators.php on line 7
+[24-Jan-2023 09:13:54 UTC] PHP Notice:  Undefined index: admin in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/update_product.php on line 6
+[24-Jan-2023 09:13:57 UTC] PHP Notice:  Undefined index: admin in /chroot/home/S5066337/public_html/foodbanksaw/AdminArea/update_user.php on line 6

@@ -1,0 +1,2 @@
+[13-Jan-2023 17:58:56 UTC] Query failed:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user.userid = '166'' at line 1
+[13-Jan-2023 17:58:57 UTC] Query failed:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user.userid = '166'' at line 1

@@ -1,0 +1,32 @@
+.buttonhome {
+  background-color: white;
+  border: 5px solid #9212e3;
+  color: #9212e3;
+  padding: 30px 64px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 8px 2px;
+  cursor: pointer;
+  margin-top: 5%;
+
+}
+.buttonhome a{
+  color: #9212e3;
+  
+}
+
+@media only screen and (max-width: 600px)
+{
+  .buttonhome {
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 2px;
+
+  }
+}

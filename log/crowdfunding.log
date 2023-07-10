@@ -1,0 +1,50 @@
+[13-Jan-2023 23:01:32 UTC] PHP Warning:  require(PHPMailer/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 52
+[13-Jan-2023 23:01:32 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php') in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 52
+[13-Jan-2023 23:01:45 UTC] PHP Warning:  require(PHPMailer/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 52
+[13-Jan-2023 23:01:45 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php') in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 52
+[13-Jan-2023 23:02:16 UTC] PHP Warning:  require(PHPMailer/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 52
+[13-Jan-2023 23:02:16 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php') in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 52
+[13-Jan-2023 23:05:28 UTC] PHP Warning:  file_get_contents(mail.html): failed to open stream: No such file or directory in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 71
+[13-Jan-2023 23:05:40 UTC] PHP Warning:  file_get_contents(mail.html): failed to open stream: No such file or directory in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 71
+[13-Jan-2023 23:07:12 UTC] PHP Warning:  file_get_contents(mail.html): failed to open stream: No such file or directory in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 71
+[14-Jan-2023 19:25:15 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:25:34 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:26:07 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:26:08 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:26:45 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:27:21 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:27:39 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:27:40 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:27:56 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:28:00 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:28:07 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:28:12 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 8
+[14-Jan-2023 19:30:11 UTC] Execute failed: (1264) Out of range value for column 'amount' at row 1
+[14-Jan-2023 19:30:57 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 80
+[14-Jan-2023 19:31:31 UTC] Execute failed: (1264) Out of range value for column 'amount' at row 1
+[14-Jan-2023 19:32:11 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 80
+[14-Jan-2023 19:32:43 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 80
+[14-Jan-2023 19:35:46 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 80
+[15-Jan-2023 04:08:22 UTC] PHP Notice:  Undefined index: idCrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 55
+[15-Jan-2023 04:08:22 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 81
+[15-Jan-2023 04:08:22 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 81
+[15-Jan-2023 04:08:22 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 85
+[15-Jan-2023 04:08:22 UTC] PHP Notice:  Undefined index: idCrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donation.php on line 95
+[15-Jan-2023 04:11:43 UTC] PHP Notice:  Undefined index: emailcrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 76
+[15-Jan-2023 04:13:28 UTC] PHP Notice:  Undefined index: emailcrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 76
+[15-Jan-2023 04:16:05 UTC] PHP Notice:  Undefined index: emailcrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 76
+[15-Jan-2023 04:16:05 UTC] Message could not be sent. Mailer Error: Invalid address:  (to): 
+[15-Jan-2023 04:16:12 UTC] PHP Notice:  Undefined index: emailcrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 76
+[15-Jan-2023 04:16:12 UTC] Message could not be sent. Mailer Error: Invalid address:  (to): 
+[15-Jan-2023 04:16:18 UTC] PHP Notice:  Undefined index: emailcrowdfunding in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/donationSuccessful.php on line 76
+[15-Jan-2023 04:16:18 UTC] Message could not be sent. Mailer Error: Invalid address:  (to): 
+[15-Jan-2023 14:40:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 48
+[15-Jan-2023 14:40:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 50
+[15-Jan-2023 14:43:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 48
+[15-Jan-2023 14:43:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /chroot/home/S5066337/public_html/Esame/test_grafica/foodbanksaw/crowdfunding/addDonation.php on line 50
+[23-Jan-2023 15:41:48 UTC] PHP Notice:  Undefined index: idCrowdfunding in /chroot/home/S5066337/public_html/foodbanksaw/crowdfunding/donation.php on line 55
+[23-Jan-2023 15:41:48 UTC] PHP Notice:  Undefined index: uniqueDonation in /chroot/home/S5066337/public_html/foodbanksaw/crowdfunding/donation.php on line 81
+[23-Jan-2023 22:51:02 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/foodbanksaw/crowdfunding/donation.php on line 81
+[23-Jan-2023 22:53:02 UTC] PHP Notice:  Undefined index: emailcrowdfunding in /chroot/home/S5066337/public_html/foodbanksaw/crowdfunding/donationSuccessful.php on line 76
+[23-Jan-2023 22:53:02 UTC] Message could not be sent. Mailer Error: Invalid address:  (to): 
+[24-Jan-2023 08:21:42 UTC] PHP Notice:  Undefined index: thisdonation in /chroot/home/S5066337/public_html/foodbanksaw/crowdfunding/addDonation.php on line 8
