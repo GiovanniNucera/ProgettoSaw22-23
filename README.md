@@ -3,7 +3,7 @@
 #### Live Demo:
 
 You can test the it on [THIS SITE](https://saw21.dibris.unige.it/~S5066337/foodbanksaw/)!
-![ShorterURL_test.gif](demo/ShorterURL_test.gif)
+![splash.png](demo/splash.png)
 
 ---
 
