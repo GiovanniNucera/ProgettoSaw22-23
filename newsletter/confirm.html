@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Donation Successful</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="../css/stylehome.css">
+  <link rel="stylesheet" href="../css/login.css">
+  <link rel="stylesheet" href="../css/bootstrap.css">
+</head>
+
+<body>
+
+
+    <div class="container mt-5 text-center">
+      <div class="row">
+          <div class="col-md-12">
+              <h1 class="text-success">Subscription Successful!</h1>
+              <p class="lead">Thank you for your subscription.</p>
+              <p id="redirect-message">Redirecting you back to the homepage in <span id="countdown">5</span> seconds...</p>
+              <p>If the redirect does not work, please <a href="../index.php" class="text-success">click here</a> to go back to the homepage.</p>
+          </div>
+      </div>
+  </div>
+
+
+  <script>
+      setTimeout(function() {
+          window.location.href = "../index.php";
+      }, 5000);
+
+      let count = 5;
+      setInterval(function() {
+          count--;
+          document.getElementById("countdown").innerHTML = count;
+      }, 1000);
+
+  </script>
+</body>
+
+</html>
